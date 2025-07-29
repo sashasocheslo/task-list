@@ -1,11 +1,11 @@
-# Task List — Простий Менеджер Завдань на Laravel
+# Task List — Simple Task Manager on Laravel
 
-Цей проєкт — це веб-додаток для створення, перегляду, редагування та видалення завдань. Розроблено з використанням фреймворку **Laravel**, що забезпечує простоту та розширюваність коду.
+This project is a web application for creating, viewing, editing and deleting tasks. Developed using the **Laravel** framework, which ensures simplicity and extensibility of the code.
 
-## Функціонал
+## Functionality
 
-- **Перегляд завдань** — список усіх доданих задач у зручному вигляді.
-- **Додавання завдання** — форма для створення нового запису.
-- **Редагування завдання** — можливість змінити назву або опис задачі.
-- **Видалення завдання** — видалення задачі зі списку.
-- **Збереження завдань** у базі даних (наприклад, SQLite).
+- **Task View** — a list of all added tasks in a convenient form.
+- **Add task** — a form for creating a new record.
+- **Edit task** — the ability to change the name or description of the task.
+- **Delete task** — remove the task from the list.
+- **Save tasks** in a database (for example, SQLite).
